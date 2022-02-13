@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: fe26a865b58c1d24593b140c38134edf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7211268767716957409
+    second: Esfera_0
+  - first:
+      213: 4888918404034853982
+    second: Esfera_1
+  - first:
+      213: 6108315703150539565
+    second: Esfera_2
+  - first:
+      213: -3934114392978273396
+    second: Esfera_3
+  - first:
+      213: 4447091476913802270
+    second: Esfera_4
+  - first:
+      213: -1697933996188416657
+    second: Esfera_5
+  - first:
+      213: 8849561664021387777
+    second: Esfera_6
+  - first:
+      213: -1011327315004222333
+    second: Esfera_7
+  - first:
+      213: 1937148240268933115
+    second: Esfera_8
+  - first:
+      213: 3510879888864462812
+    second: Esfera_9
+  - first:
+      213: -2688915642711004386
+    second: Esfera_10
+  - first:
+      213: -4043301538754577106
+    second: Esfera_11
+  - first:
+      213: -890045347986763618
+    second: Esfera_12
+  - first:
+      213: 428555028566158165
+    second: Esfera_13
+  - first:
+      213: 4824767398892376824
+    second: Esfera_14
+  - first:
+      213: -596780413535867589
+    second: Esfera_15
+  - first:
+      213: -5102342619963344852
+    second: Esfera_16
+  - first:
+      213: -5410703702180609133
+    second: Esfera_17
+  - first:
+      213: -1835209948019567611
+    second: Esfera_18
+  - first:
+      213: 2050002660879878519
+    second: Esfera_19
+  - first:
+      213: 2793677106518760557
+    second: Esfera_20
+  - first:
+      213: -465077791937414413
+    second: Esfera_21
+  - first:
+      213: -7924317937247513777
+    second: Esfera_22
+  - first:
+      213: 2523693084173326514
+    second: Esfera_23
+  - first:
+      213: -4824389672994869823
+    second: Esfera_24
+  - first:
+      213: 5907063877484786788
+    second: Esfera_25
+  - first:
+      213: -7454995741332162998
+    second: Esfera_26
+  - first:
+      213: -3788854879258078362
+    second: Esfera_27
+  - first:
+      213: 7126463274093070056
+    second: Esfera_28
+  - first:
+      213: 1753790364548422368
+    second: Esfera_29
+  - first:
+      213: 2042226451464639258
+    second: Esfera_30
+  - first:
+      213: -1011949539151180338
+    second: Esfera_31
+  - first:
+      213: 6384777501986118963
+    second: Esfera_32
+  - first:
+      213: 1244678216034752932
+    second: Esfera_33
+  - first:
+      213: 8340579760298193855
+    second: Esfera_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Esfera_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 167
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13ac50434d6ceb90800000000000000
+      internalID: -7211268767716957409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 167
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cfd58c26de8d340800000000000000
+      internalID: 4888918404034853982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 167
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d237a3ec4c815c450800000000000000
+      internalID: 6108315703150539565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 167
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b47ccadc73769c0800000000000000
+      internalID: -3934114392978273396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 167
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c4d15f22e37bd30800000000000000
+      internalID: 4447091476913802270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 167
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f654129c60abf68e0800000000000000
+      internalID: -1697933996188416657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 167
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ad8e94275ffca70800000000000000
+      internalID: 8849561664021387777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 126
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384168d4a2b07f1f0800000000000000
+      internalID: -1011327315004222333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 126
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7b082af0222ea10800000000000000
+      internalID: 1937148240268933115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 126
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd744d058a629b030800000000000000
+      internalID: 3510879888864462812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 126
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b283d287d0faad0800000000000000
+      internalID: -2688915642711004386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 126
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d3ebe3cae43e7c0800000000000000
+      internalID: -4043301538754577106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 126
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90924fb87ce5a3f0800000000000000
+      internalID: -890045347986763618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 126
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ba464278882f500800000000000000
+      internalID: 428555028566158165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 85
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f29dd6f26405f240800000000000000
+      internalID: 4824767398892376824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 85
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3da842306fc7b7f0800000000000000
+      internalID: -596780413535867589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 85
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28bfb6ab66d039b0800000000000000
+      internalID: -5102342619963344852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 85
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39342a666a159e4b0800000000000000
+      internalID: -5410703702180609133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 85
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504d70096460886e0800000000000000
+      internalID: -1835209948019567611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 85
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779c9560f82137c10800000000000000
+      internalID: 2050002660879878519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 85
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c113fd68225c620800000000000000
+      internalID: 2793677106518760557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fab5aa5636bb89f0800000000000000
+      internalID: -465077791937414413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 44
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f431b1722da270290800000000000000
+      internalID: -7924317937247513777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 44
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8d24c2d75f50320800000000000000
+      internalID: 2523693084173326514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cde31337235c0db0800000000000000
+      internalID: -4824389672994869823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 44
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464b503bc4b1af150800000000000000
+      internalID: 5907063877484786788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 44
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46b8db1fd88a8890800000000000000
+      internalID: -7454995741332162998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 44
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6631150cf884b6bc0800000000000000
+      internalID: -3788854879258078362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e64f25179846e260800000000000000
+      internalID: 7126463274093070056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 4
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea59696b07b65810800000000000000
+      internalID: 1753790364548422368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 6
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13d47e2322775c10800000000000000
+      internalID: 2042226451464639258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd06447145d4f1f0800000000000000
+      internalID: -1011949539151180338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_32
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 6
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dd9cf5f494b9850800000000000000
+      internalID: 6384777501986118963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 6
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a91b6e2e3cf54110800000000000000
+      internalID: 1244678216034752932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Esfera_34
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3f2690a11bfb370800000000000000
+      internalID: 8340579760298193855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
